@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaFRM:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaFRM_jar</output-path>
+    <root id="archive" name="JavaFRM.jar">
+      <element id="module-output" name="JavaFRM" />
+    </root>
+  </artifact>
+</component>

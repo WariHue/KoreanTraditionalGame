@@ -3,6 +3,7 @@
     <output-path>$PROJECT_DIR$/out/artifacts/JavaFRM_jar</output-path>
     <root id="archive" name="JavaFRM.jar">
       <element id="module-output" name="JavaFRM" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/META-INF" />
     </root>
   </artifact>
 </component>
